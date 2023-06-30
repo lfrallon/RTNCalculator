@@ -20,13 +20,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/lfrallon/rtn-calculator",
+  "repository": "https://github.com/lfrallon/RTNCalculator",
   "author": "Loreto Frallon (https://github.com/lfrallon)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lfrallon/rtn-calculator/issues"
+    "url": "https://github.com/lfrallon/RTNCalculator/issues"
   },
-  "homepage": "https://github.com/lfrallon/rtn-calculator#readme",
+  "homepage": "https://github.com/lfrallon/RTNCalculator#readme",
   "devDependencies": {},
   "peerDependencies": {
     "react": "*",
